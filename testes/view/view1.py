@@ -9,8 +9,10 @@ class View1(tk.Frame):
         
         self.model = ModelView1()  # Cria um objeto da classe ModelView1 para acessar a lógica
         
-        label = tk.Label(self, text="Criador de Ficha de RPG", font=("Helvetica", 20))
-        label.pack(pady=20)
+        label = tk.Label(self, text="Let's Play", font=("Impact", 60))
+        label.pack(pady=5)
+        label = tk.Label(self, text="RPG?", font=("French Script MT", 70))
+        label.pack(pady=15)
         
         next_button = tk.Button(self, text="Próxima", command=lambda: view_controller.switch_view(view_controller.current_view_index + 1))
         next_button.pack()
