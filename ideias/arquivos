@@ -1,0 +1,86 @@
+from Auxiliares import caminho_completo
+
+
+diretorio = '.'
+nome_do_arquivo = 'arquivo.txt'
+
+caminho = caminho_completo(nome_do_arquivo, diretorio)
+
+"""
+Modos de abertura do arquivo em Python
+    "w"  - Abre um arquivo para escrita. Se existe, ele 'trunca' tudo e
+            escreve por cima. Se não existir o arquivo, ele cria
+    "w+" - Abre para leitura e escrita. Se existe, apaga todo conteúdo e
+            escreve por cima. Se não existir o arquivo, ele cria
+    "r"  - Abre o arquivo para a leitura, se não existir, lançar um eerro
+            de IOError
+    "r+" - Abra um arquivo para leitura e escrita. Se não existe, lança um
+            erro IOError
+    "a"  - Escreve ao final do arquivo; se este não existir, é criado
+
+fonte:
+https://www.pythonprogressivo.net/2018/10/Como-EscreverArquivo-write-Modo-Abertura.html
+"""
+
+#
+# Criando um novo arquivo e salvando 3 linhas
+#
+
+# Abre o arquivo - modo 'w'
+arquivo = open(caminho, 'w')
+
+# Excreve as linhas
+arquivo.write('Linha 01\n')
+arquivo.write('Linha 02\n')
+arquivo.write('Linha 03\n')
+
+# Fecha o arquivo
+arquivo.close()
+
+
+#
+# Adicionando 3 linhas ao arquivo - Modo 01
+#
+
+# Abre o arquivo - modo 'r+'
+arquivo = open(caminho, 'r+')
+
+# Percorre o arquivo até o final
+for linha in arquivo:
+    pass
+
+# Escreve no final
+arquivo.write('Linha 04\n')
+arquivo.write('Linha 05\n')
+arquivo.write('Linha 06\n')
+
+# Fecha o arquivo
+arquivo.close()
+
+#
+# Adicionando 3 linhas ao arquivo - Modo 02
+#
+
+# Abre o arquivo - modo 'a'
+arquivo = open(caminho, 'a')
+
+# Escreve no final
+arquivo.write('Linha 07\n')
+arquivo.write('Linha 08\n')
+arquivo.write('Linha 09\n')
+
+# Fecha o arquivo
+arquivo.close()
+
+#
+# Lendo o arquivo
+#
+
+# Abre o arquivo - modo 'r'
+arquivo = open(caminho, 'r')
+
+for linha in arquivo:
+    print(linha)
+
+# Fecha o arquivo
+arquivo.close()

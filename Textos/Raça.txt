@@ -1,0 +1,43 @@
+Aarakocra
+Aasimar , Fallen Aasimar, Protector Aasimar, Scourge Aasimar
+Anão, Gray Dwarves, Hill Dwarves, Mountain Dwarf, Mark Of Warding
+Bugbear
+Centauro
+Dhampir
+Draconato, Draconato Draconblood, Draconato Ravenite
+Elfo, Dark Elf(Drow), Eladrin, High Elf, Pallid Elf, Sea Elf, Shadar-Kai, Wood Elf, Mark of Shadow
+Fairy
+Firbolg
+Genasi, Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
+Gith, Githyanki, Githzerai
+Gnomo, Forest Gnomo, Rock Gnomo, Deep Gnomo (Svirfneblin)
+Goblin
+Halfling, Lightfoot, Lotusden, Stout, Mark of Healing, Mark of Hospitality
+Haregon
+HexBlood
+Hibrido Simic
+Hobgoblin
+Hollow One
+Humano, Humano Padrão, Humano Variante, Mark of Finding, Mark of Handling, Mark of Making, Mark of Passage, Mark of Sentinel
+Kalashtar
+Kenku
+Kobold
+Leonino
+Lizardfolk
+Locathah
+Loxodonte
+Meio-Elfo, Mark of Detection, Mark of storm
+Meio-Orc, Mark of Finding
+Minotauro
+Orc, Eberron Variant, Exandria Variant
+Reborn
+Sátiro
+Shifter, Beasthide, Longtooth, Swiftstride, Wildhunt
+Tabaxi
+Tielfling, Asmodeus, Baalzebul, Dispater, Feral, Fierna, Glasya, Levistus, Mammon, Mephistopheles, Zariel
+Tortle
+Tritão
+Vedalken
+Verdan
+Warforged
+Yuan-Ti

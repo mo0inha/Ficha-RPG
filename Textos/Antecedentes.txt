@@ -1,0 +1,102 @@
+"""
+Acólito:
+Você passou a sua vida servindo o templo e um determinado Deus ou panteão de Deuses. Todos os acólitos compartilham as seguintes características.
+Aprimoramento de Atributo. A sua Sabedoria aumenta em 2, e a sua Inteligência aumenta em 1.
+Decoro Adequado. Sempre que você encontrar um humanoide não-hostil que seja membro de um culto ou seja praticante de uma religião, você pode fazer um teste de Inteligência (Religião) contestado pela Sabedoria (Intuição) da criatura. Em caso de sucesso, você tem vantagem em todos os testes de Carisma direcionados àquela criatura por 24 horas.
+Obstinado. Você tem vantagem em testes de resistência de Sabedoria.
+Teólogo. Você sabe as magias taumaturgia e detectar bem e mal. Você pode lançar detectar bem e mal uma vez sem gastar espaço de magia, e recupera essa habilidade ao terminar um descanso longo.
+
+Charlatão:
+Você sempre teve jeito com as pessoas. Você sabe do que elas gostam, você consegue descobrir os seus maiores desejos depois de poucos minutos de conversa e, com algumas perguntas bem colocadas, você consegue ler as pessoas como se fossem livros de criança. Charlatões ganham as seguintes características.
+Aprimoramento de Atributo. O seu Carisma aumenta em 2, e a sua Sabedoria aumenta em 1.
+Especialista em Falsificação. Você consegue duplicar a caligrafia e o trabalho de outras criaturas. Você tem vantagem em testes para produzir falsificações ou duplicatas de objetos já existentes.
+Mestre do Disfarce. Se você gastar 1 hora observando uma criatura, você pode então gastar 8 horas para criar um disfarce que você pode colocar rapidamente e imitar àquela criatura. Para criar o disfarce, você necessita de um kit de disfarce. Você deve fazer os testes normais para se disfarçar, mas pode colocar o disfarce como uma ação.
+Eloquente. Quando você realizar a ação Atacar no seu turno, você pode substituir um ataque por uma tentativa de enganar um humanoide que você consiga ver em até 9 metros de distância e que possa te ver e escutar. Você faz um teste de Carisma (Enganação) contestado pela Sabedoria (Intuição) do alvo. Em caso de sucesso, sua movimentação não provoca ataques de oportunidade do alvo, e os seus ataques contra o mesmo possuem vantagem; ambos os benefícios duram até o final do seu próximo turno ou até você utilizar essa habilidade em um alvo diferente. Se o teste falhar, o alvo não pode mais ser enganado por você dessa forma por 1 hora.
+
+Criminoso:
+Você é um criminoso experiente, com um histórico de de violar a lei.. Todos os criminosos possuem as seguintes características.
+Aprimoramento de Atributo. A sua Destreza aumenta em 2, e a sua Inteligência aumenta em 1.
+Intuição Criminosa. Se você gastar pelo menos 1 minuto observando e interagindo com outra criatura fora de combate, você pode aprender algumas informações sobre a criatura. O Dungeon Master (DM) vai lhe dizer se a criatura é igual, superior ou inferior a você com relação a uma das seguintes características de sua escolha:
+• Perícia ou habilidade com uma ferramenta (escolha um)
+• Influência política
+• Riqueza
+A critério do DM, você também pode perceber que você sabe uma parte da história da criatura ou um dos seus traços de personalidade, caso ela tenha algum.
+Furtivo. Se você estiver escondido, você pode se mover até 3 metros em um local descoberto sem se revelar, desde que você termine o seu deslocamento em uma posição que não esteja claramente visível.
+
+Artista:
+Você brilha na frente do público. Você sabe como cativar, entreter e até mesmo inspirar. Você ganha as seguintes características.
+Aprimoramento de Atributo. O seu Carisma aumenta em 2, e a sua Destreza aumenta em 1.
+Mestre do Disfarce. Se você gastar 1 hora observando uma criatura, você pode então gastar 8 horas para criar um disfarce que você pode colocar rapidamente e imitar aquela criatura. Para criar o disfarce, você necessita de um kit de disfarce. Você deve fazer os testes normais para se disfarçar, mas pode colocar o disfarce como uma ação.
+Mimetismo. Você consegue imitar sons que já tenha escutado, incluindo vozes. Uma criatura que os sons feitos por você pode perceber que são imitações com um sucesso em um teste de Sabedoria (Intuição) contestado por um teste seu de Carisma (Enganação).
+Artista. Enquanto estiver atuando, você pode tentar distrair um humanoide que você consiga ver e que possa escutar você. Faça um teste de Carisma (Atuação) contestado pelo teste de Sabedoria (Intuição) do humanoide. Em caso de sucesso, você atrai a atenção do seu albo o suficiente para que ele realize testes de Sabedoria (Percepção) e Inteligência (Investigação) com desvantagem até que você interrompa a sua performance.
+
+Herói do Povo:
+Você vem de uma criação humilde, mas é destinado a muito mais.Todos os heróis do povo compartilham as seguintes características.
+Aprimoramento de Atributo. O seu Carisma aumenta em 1, e dois outros atributos de sua escolha aumentam em 1.
+Corajoso. Você tem vantagem em testes de resistência contra ficar amedrontado.
+Orador Público. Sempre que realizar um teste de Carisma (Persuasão) enquanto estiver falando para um grupo grande de pessoas, você é considerado proficiente na perícia de Persuasão e adiciona o dobro do seu bônus de proficiência para o teste, ao invés do seu bônus normal de proficiência.
+Implacável. Se você falhar em um teste de resistência, você pode rolar novamente para o teste, mas é obrigado a manter o novo resultado. Após utilizar esse traço, você não pode usá-lo novamente até terminar um descanso longo.
+
+Artesão de Guilda:
+Você é membro de uma guilda de artesões, habilidosos em um determinado campo e intimamente associado com os outros artesões.
+Aprimoramento de Atributo. A sua Força aumenta em 1, sua Destreza aumenta em 1, e a sua Sabedoria aumenta em 1.
+Artesão Astuto. Como parte de um descanso curto, você pode colher materiais do seus arredores para criar um item de sua escolha. O valor do item não pode ser maior que 1 mo e deve ser ligado a uma ferramenta que você é proficiente (a critério do DM). Por exemplo, um alquimista pode produzir um galão de cerveja, ou um carpinteiro pode fazer 20 flechas. Para utilizar esse traço, você necessita das ferramentas de artesão apropriadas.
+Artesanato Especializado. Escolha uma ferramenta com a qual você tenha proficiência. Você ganha perícia com essa ferramenta, o que significa que o seu bônus de proficiência é dobrado para qualquer teste de habilidade utilizando o mesmo. A ferramenta escolhida não pode se beneficiar de outro talento, como Perícia, o qual dobra o bônus de proficiência.
+Negociador. Sempre que você realizar um teste de Carisma (Persuasão) envolvendo a negociação do preço de um item que você está tentando comprar ou vender, você adiciona o dobro do seu bônus de proficiência ao teste, ao invés do seu bônus normal.
+
+Eremita:
+Você viveu em isolamento – em uma comunidade fechada, como um monastério, ou totalmente sozinho – por uma considerável parte de sua vida. Você ganha as seguintes características.
+Aprimoramento de Atributo. A sua Sabedoria aumenta em 2, e a sua Constituição aumenta em 1.
+Focado. Você tem vantagem em testes de resistência de Constituição para manter a sua concentração.
+Herbalista. Como parte de um descanso curto, você pode colher materiais do seus arredores para criar um frasco de antitoxina ou uma poção de cura. No final do descanso, faça um teste de Sabedoria com CD 15 usando a sua proficiência com kit de herbalismo. Em caso de sucesso, você cria o item. Para utilizar esse traço, você deve estar em um local com comida e água em abundância e ter um kit de herbalismo a sua disposição.
+Paciência. Você pode utilizar a ação de Esquivar como uma ação bônus no seu turno. Após usar esse traço, você não pode utilizá-lo novamente até que tenha completado um descanso longo.
+
+Nobre:
+Você conhece riqueza, poder, e privilégio. Você possui um título nobre, e a sua família possui terras, coleta impostos, e possui uma significante influência política. Como nobre, você ganha os seguintes traços.
+Aprimoramento de Atributo. A sua Inteligência aumenta em 2, e o seu Carisma aumenta em 1.
+Truque. Você sabe um truque de sua escolha da lista de magias do mago. Inteligência é o seu atributo usado para lançar essa magia.
+Sortudo. Quando você tirar 1 em uma rolagem de ataque, teste de habilidade, ou teste de resistência, você pode rolar novamente o dado e utilizar o novo resultado.
+Treinamento em Armas de Nobres. Você tem proficiência com espada longa, florete, besta leve, arco curto.
+Decoro Adequado. Sempre que você encontrar um humanoide não-hostil que seja membro da nobreza ou que tenha uma posição de poder, você pode fazer um teste de Inteligência (História) contestado pela Sabedoria (Intuição) da criatura. Em caso de sucesso, você tem vantagem em todos os testes de Carisma direcionados àquela criatura por 24 horas.
+
+Forasteiro:
+Você cresceu na natureza, longe da civilização e do conforto das cidades e da tecnologia. Você ganha os seguintes traços.
+Aprimoramento de Atributo. A sua Constituição aumenta em 2, e a sua Força aumenta em 1.
+Veloz. A sua velocidade básica de deslocamento aumenta para 12 metros.
+Sobrevivente. Sempre que você realizar um teste de Sabedoria (Sobrevivência) relacionado com busca por comida e água, você adiciona o dobro do seu bônus de proficiência ao teste, ao invés do seu bônus normal.
+Resiliência do Forasteiro. Você tem vantagem em testes de resistência contra veneno e resistência contra dano venenoso.
+Resistência Implacável. Quando você for reduzido a 0 pontos de vida, mas não morto instantaneamente, você fica com 1 ponto de vida. Você não pode utilizar esse traço novamente até que termine um descanso longo.
+
+Sábio
+Você passou anos estudando sobre o multiverso. Todos os sábios possuem os seguintes traços em comum.
+Aprimoramento de Atributo. A sua Inteligência aumenta em 2, e a sua Sabedoria aumenta em 1.
+Arcanista. Você sabe as magias prestidigitação e detectar magia. Você pode lançar detectar magia uma vez sem gastar espaço de magia, e recupera essa habilidade ao terminar um descanso longo.
+Historiador. Sempre que você realizar a ação de Ajudar para auxiliar um teste de habilidade de outra criatura, você pode fazer um teste de Inteligência (História) CD 15. Em caso de sucesso, o teste da criatura ganha um bônus igual ao seu bônus de proficiência, pois você compartilha conselhos pertinentes e exemplos históricos. Para receber tal bônus, a criatura deve ser capaz de compreender o que você fala e ter um atributo de Inteligência de 10 ou maior.
+Pesquisador. Sempre que você realizar um teste de Inteligência relacionado a alguma pesquisa, você adiciona um bônus de + 2 para esse teste de habilidade. Você deve ter acesso a uma biblioteca ou a um sábio para que esse traço funcione.
+
+Marinheiro:
+Você navegou por anos. O tempo que passou no mar lhe fornece as seguintes características.
+Aprimoramento de Atributo. A sua Força aumenta em 1, sua Destreza aumenta em 1, e a sua Constituição aumenta em 1.
+Segurar a Respiração. Você consegue segurar a sua respiração pelo dobro do tempo normal (mínimo de 1 minuto).
+Conhecimento de Nós. Sempre que você fizer um teste de Inteligência (Prestidigitação) para amarrar ou desamarrar um nó, você é considerado proficiênte na perícia de Prestidigitação e adiciona o dobro do seu bônus de proficiência ao teste, ao invés do seu bônus normal.
+Navegador. Sempre que você fizer um teste de Sabedoria (Sobrevivência) relacionado com a previsão do tempo ou para evitar ficar perdido no mar, você é considerado proficiente na perícia Sobrevivência e adiciona o dobro do seu bônus de proficiência ao teste, ao invés do seu bônus normal.
+Perceptivo. Estar em uma área levemente obscura não impõe desvantagem nos seus testes de Sabedoria (Percepção) desde que você consiga ver e escutar.
+Proficiência com Armas de Marinheiro. Você tem proficiência com azagaia, rede, lança, e tridente.
+
+Soldado:
+Guerra tem sido parte da sua vida desde que você consegue se lembrar. Você ganha as seguintes características.
+Aprimoramento de Atributo. A sua Constituição aumenta em 2, e um outro atributo de sua escolha aumenta em 1.
+Estilo de Combate. Você adota um estilo particular de luta como sua especialidade. Escolha uma das seguintes opções. Você não pode escolhe um Estilo de Combate mais de uma vez, mesmo que você venha a ter essa opção mais tarde.
+• Arquearia. Você ganha + 2 de bônus nas jogadas de ataque realizadas com uma arma de ataque à distância.
+• Defesa. Enquanto estiver usando armadura, você ganha + 1 de bônus em sua CA.
+• Luta com Arma Grande. Em uma jogada de ataque com arma corpo a corpo empunhada com duas mãos, quando você obtiver 1 ou 2 no dado de dano da arma, você pode jogá-lo de novo e usar a nova jogada, mesmo que o resultado seja 1 ou 2. A arma deve ter a propriedade duas mãos ou versátil para ganhar esse benefício.
+• Proteção. Quando uma criatura que você possa ver atacar um alvo que esteja a até 1.5 metros de você, você pode usar sua reação para impor desvantagem nas jogadas de ataque da criatura. Você deve estar empunhando um escudo.
+Treinamento Marcial. Você é proficiente com duas armas comuns de sua escolha e com armadura leve.
+
+Criança de Rua
+Você cresceu sozinho nas ruas, orfão, e pobre. Você ganha as seguintes características.
+Aprimoramento de Atributo. A sua Destreza aumenta em 2, e um outro atributo de sua escolha aumenta em 1.
+Escondido na Multidão. Se você estiver em uma área lotada, você pode usar a ação de Esconder para fazer um teste de Carisma (Furtividade) contestado por um teste de Sabedoria (Percepção) da criatura. Em caso de sucesso, você se mistura e desaparece no meio da multidão e pode se mover sem revelar a sua localização desde que continue na multidão.
+Ágil. Você pode se mover pela espaço de qualquer criatura que seja maior que você.
+Dedos Rápidos. Como uma ação bônus, você pode fazer um teste de Destreza (Prestidigitação) para plantar algo em alguém, esconder um objeto, roubar uma bolsa, ou pegar algo de um bolso.
+"""
