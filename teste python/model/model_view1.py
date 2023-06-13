@@ -5,10 +5,9 @@ class ModelView1:
     def show_credits(self):
         # Implementa a lógica para exibir os créditos
         print("Créditos:")
-        print("Desenvolvido por: Bing")
-        print("Baseado em: Python e Tkinter")
+        print("Desenvolvido por: Mo0inha")
     
     def show_other_sheets(self):
         # Implementa a lógica para exibir outras fichas
         print("Outras Fichas:")
-        print("Você pode ver outras fichas criadas por outros usuários no site: https://www.rpgsheets.com/")
+        print("no momento não há")
