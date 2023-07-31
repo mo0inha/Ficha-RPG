@@ -4,10 +4,9 @@ from model.model_ViewMenu import ModelViewMenu
 class ViewMenu(tk.Frame):
     def __init__(self, view_controller):
         tk.Frame.__init__(self, view_controller.master, width=500, height=500)
+        self.pack_propagate(0)
         
-        self.pack_propagate(0)  # Impede que o frame se ajuste automaticamente ao conteúdo
-        
-        self.model = ModelViewMenu()  # Cria um objeto da classe ModelView1 para acessar a lógica
+        self.model = ModelViewMenu()
         
         label = tk.Label(self, text="Let's Play", font=("Impact", 60))
         label.pack(pady=5)
@@ -24,7 +23,7 @@ class ViewMenu(tk.Frame):
         other_sheets_button.pack()
         
     def show_credits(self):
-        self.model.show_credits()  # Chama o método do model para exibir os créditos
+        self.model.show_credits()
     
     def show_other_sheets(self):
-        self.model.show_other_sheets()  # Chama o método do model para exibir outras fichas
+        self.model.show_other_sheets()

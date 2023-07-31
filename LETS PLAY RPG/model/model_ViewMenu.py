@@ -13,4 +13,3 @@ class ModelViewMenu:
         
         label = tk.Label(window, text="Desenvolvido por: Mo0inha")
         label.pack()
-        

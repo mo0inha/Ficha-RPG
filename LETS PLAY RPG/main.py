@@ -1,5 +1,5 @@
 import tkinter as tk
-from view_merge import ViewMerge
+from controller import ViewMerge
 
 root = tk.Tk()
 root.title("Ficha de RPG")
